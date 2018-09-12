@@ -16,9 +16,12 @@ function whisper(string) {
 
 function sayHiToGrandma(string) {
 var lowercase = 'hello'
-var uppercase = 'HELLO'
 if ('hello') return ("I can\'t hear you!");
-else if ('HELLO') return ('YES INDEED!');
+}
+
+function sayHiToGrandma(string) {
+var uppercase = 'HELLO'
+if ('HELLO') return ('YES INDEED!');
 }
 
 function sayHiToGrandma(string) {
