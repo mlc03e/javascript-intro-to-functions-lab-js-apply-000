@@ -17,8 +17,8 @@ function whisper(string) {
 function sayHiToGrandma(string) {
 var lowercase = 'hello'
 var uppercase = 'HELLO'
-if (sayHiToGrandma('hello')) return ("I can\'t hear you!");
-else if (sayHiToGrandma('HELLO')) return ('YES INDEED!');
+if ('hello') return ("I can\'t hear you!");
+else if ('HELLO') return ('YES INDEED!');
 }
 
 function sayHiToGrandma(string) {
